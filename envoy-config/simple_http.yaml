@@ -38,7 +38,7 @@ static_resources:
         - endpoint:
             address:
               socket_address:
-                address: 127.0.0.1
+                address: 192.168.0.1
                 port_value: 8081
 admin:
   access_log_path: "/dev/null"
